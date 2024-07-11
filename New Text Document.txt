@@ -1,0 +1,9 @@
+khanbasiq16@gmail.com , Here@12345  admin acount 
+basiqkhan455@gmail.com , basiq11234 user account 
+
+${req.protocol}://${req.get(
+    "host"
+  )}
+
+
+http://localhost:3000/QNA/all/6651b0056b06a8a8e1df7e36
